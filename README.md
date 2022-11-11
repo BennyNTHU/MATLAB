@@ -1,1 +1,3 @@
 # MATLAB
+以前練習MATLAB
+還有參加了學校一些關於MATLAB的講座
